@@ -2,3 +2,6 @@ numpy
 pandas
 xlwings
 matplotlib
+scipy
+scikit-learn
+pywander
