@@ -4,4 +4,4 @@ xlwings
 matplotlib
 scipy
 scikit-learn
-pywander>=0.8.0
+pywander>=0.8.1

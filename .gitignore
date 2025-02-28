@@ -1,6 +1,4 @@
-data/
 .jupyter
-neural_network/mnist_dataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
