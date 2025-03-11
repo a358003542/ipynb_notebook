@@ -4,6 +4,8 @@ xlwings
 matplotlib
 scipy
 scikit-learn
-pywander>=0.8.3
+pywander>=0.8.4
 imageio
 dill
+torch
+torchvision
