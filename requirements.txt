@@ -4,7 +4,7 @@ xlwings
 matplotlib
 scipy
 scikit-learn
-pywander>=0.8.4
+pywander>=0.8.5
 imageio
 dill
 torch
