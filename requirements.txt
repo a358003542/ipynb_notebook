@@ -7,5 +7,5 @@ scikit-learn
 pywander>=0.8.5
 imageio
 dill
-torch
-torchvision
+torch==2.6.0
+torchvision==0.21.0
