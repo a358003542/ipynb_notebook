@@ -18,7 +18,6 @@
 ### python基础自验
 1. 安装好你自己的python环境，进入REPL环境，用print打印出hello world。新建一个test.py文件，里面写上之前的打印命令，然后用python执行该脚本。
 
-
 2. 安装好你自己的IDE开发环境，pycharm或者vscode都挺不错的，vscode里面有教程指引，配置好插件和环境，再利用IDE完成步骤一。
 
 3. 学会int和float数据类型，进行简单的加减乘除和取模操作。
@@ -53,9 +52,8 @@
 
 
 ### 参考资料
-- python入门教程，python官网上的tutorial。原作者：Guido van Rossum  Fred L. Drake ；中文翻译：刘鑫等；版本：2013-10-28 。
-- learning python，主要python语言参考，我主要参看了python学习手册（第四版）。原作者：Mark Lutz，中文翻译：李军，刘红伟等。
 - python [官网上的资料](https://docs.python.org/3/) 。
+- learning python，主要python语言参考，我主要参看了python学习手册（第四版）。原作者：Mark Lutz，中文翻译：李军，刘红伟等。
 - [dive into python3](http://www.diveintopython3.net/index.html) 。
 - A Guide to Python's Magic Methods，作者：Rafe Kettler ,版本：2014-01-04，[Github 地址](https://github.com/RafeKettler/magicmethods) .
 - 流畅的python, Luciano Ramalho著, 安道 吴珂译
